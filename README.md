@@ -47,7 +47,8 @@ Para usar Controlador de Cerveja, siga estas etapas:
 -  Após verificar que o firwmare foi compilado com sucesso, simule-o com suas configurações desejadas.
 -  Importe-o ao seu circuito e sumule seu cenário.
 ---
-
+## Link explanação - Youtube
+Link do Youtube - https://youtu.be/oVvX4KhvvNE
 ## 🤝 Colaboradores
 ---
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
